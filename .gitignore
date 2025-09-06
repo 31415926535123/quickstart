@@ -1,7 +1,5 @@
 # 忽略除 public 文件夹以外的所有内容
-
-!/public/
-!.gitignore
 /*
 !/public/
 !.gitignore
+!index.html
