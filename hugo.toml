@@ -1,4 +1,0 @@
-baseURL = 'https://31415926535123.github.io/quickstart/'
-languageCode = 'zh-CN'
-title = 'welcome to read my fiction'
-theme='hugo-book'
